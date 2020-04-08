@@ -14,6 +14,4 @@ This program gets User data, do some basic validation and save each user data in
 * The program can take more than 1 user's detail if need be and it saves all user data in a container
 * At the end of the program, it prints out all the user data that had been saved
 
-Below is the screenshot of the ending part of the program where I queried each user data that had been saved
-![](/Query.png)
 ## Thank You!
